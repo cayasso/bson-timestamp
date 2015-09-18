@@ -1,7 +1,7 @@
 {
   "name": "bson-timestamp",
   "version": "0.1.0",
-  "description": "BSON Timestamp without mongodb driver or bson module",
+  "description": "BSON Timestamp without mongodb driver or bson module.",
   "author": {
     "name": "Jonathan Brumley",
     "email": "cayasso@gmail.com"
@@ -22,8 +22,5 @@
     "mongodb",
     "date"
   ],
-  "license": "Apache-2.0",
-  "devDependencies": {
-    "browserify": "^11.1.0"
-  }
+  "license": "Apache-2.0"
 }

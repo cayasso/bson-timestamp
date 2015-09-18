@@ -1,6 +1,6 @@
 {
   "name": "bson-timestamp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "BSON Timestamp without mongodb driver or bson module.",
   "author": {
     "name": "Jonathan Brumley",

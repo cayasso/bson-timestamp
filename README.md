@@ -6,7 +6,7 @@ This mdoule allows you to create and parse BSON `Timestamp`s without a reference
 [mongodb](https://github.com/mongodb/node-mongodb-native) or [bson](https://github.com/mongodb/js-bson)
 modules.
 
-It is just a mirrow of the [timestamp.js](https://github.com/mongodb/js-bson/blob/master/lib/bson/objectid.js) file in [bson](https://github.com/mongodb/js-bson)
+It is just a mirrow of the [timestamp.js](https://github.com/mongodb/js-bson/blob/master/lib/bson/timestamp.js) file in [bson](https://github.com/mongodb/js-bson)
 
 ### Motivation
 
